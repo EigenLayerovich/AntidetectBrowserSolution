@@ -1,5 +1,3 @@
-[![Telegram](https://img.icons8.com/color/24/telegram-app.png)](https://t.me/maestroofautomation) [Maestro Of Automation's channel in Telegram](https://t.me/maestroofautomation)
-
 # Maestro Antidetect Browser Solution (alpha)
 
 **Maestro Anti Detect Browser Solution** is a tool for managing Chrome browser profiles, rotating proxies, and automatically setting fingerprints.
